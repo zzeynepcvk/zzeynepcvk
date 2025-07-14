@@ -94,34 +94,72 @@ I'm a passionate Full Stack Developer, Python Developer, and Python Tutor who lo
 
 ## 🎯 Featured Projects
 
+### 🤖 AI & Machine Learning Projects
+
 <div align="center">
   <a href="https://github.com/zzeynepcvk/MuseumArt">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=zzeynepcvk&repo=MuseumArt&theme=radical" />
   </a>
+  <a href="https://github.com/zzeynepcvk/AI_Voice_Assistant_Project">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zzeynepcvk&repo=AI_Voice_Assistant_Project&theme=radical" />
+  </a>
 </div>
 
-### 🎨 **MuseumArt - AI Image Processing Project**
-My flagship project combining **Computer Vision** and **Artificial Intelligence** for museum art analysis. This project showcases advanced image processing techniques and AI algorithms for art recognition and classification.
+- **🎨 MuseumArt**: AI-powered image processing for museum art analysis using Computer Vision and Machine Learning algorithms
+- **🎤 AI Voice Assistant**: Intelligent voice assistant built with Python, featuring speech recognition, natural language processing, and voice synthesis
 
-**Technologies:** Python, OpenCV, TensorFlow/PyTorch, Machine Learning, Image Processing
+### 📊 Data Science & Analytics Projects
+
+<div align="center">
+  <a href="https://github.com/zzeynepcvk/tweetAnalysis">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zzeynepcvk&repo=tweetAnalysis&theme=radical" />
+  </a>
+  <a href="https://github.com/zzeynepcvk/web_scrabing">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zzeynepcvk&repo=web_scrabing&theme=radical" />
+  </a>
+</div>
+
+- **🐦 Tweet Analysis**: Advanced sentiment analysis and data mining project for Twitter/X posts using Python and NLP techniques
+- **🕷️ Web Scraping**: Comprehensive web scraping toolkit for data collection and automated information extraction
+
+### 🌐 Web Development Projects
+
+<div align="center">
+  <a href="https://github.com/zzeynepcvk/LanguAir">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zzeynepcvk&repo=LanguAir&theme=radical" />
+  </a>
+  <a href="https://github.com/zzeynepcvk/GoldTask">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zzeynepcvk&repo=GoldTask&theme=radical" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/zzeynepcvk/react">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zzeynepcvk&repo=react&theme=radical" />
+  </a>
+  <a href="https://github.com/zzeynepcvk/rickandmortyapi-trial">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zzeynepcvk&repo=rickandmortyapi-trial&theme=radical" />
+  </a>
+</div>
+
+- **🌍 LanguAir**: Modern language learning web application with interactive features and user progress tracking
+- **📋 GoldTask**: Task management and productivity application built with modern web technologies
+- **⚛️ React Projects**: Collection of React.js applications showcasing component-based architecture and modern frontend development
+- **🛸 Rick & Morty API**: Interactive web app consuming Rick and Morty API with dynamic content rendering and search functionality
+
+### 🛠️ Utility & Tools Projects
+
+<div align="center">
+  <a href="https://github.com/zzeynepcvk/ipt-mors-kodu-donusturucu">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zzeynepcvk&repo=ipt-mors-kodu-donusturucu&theme=radical" />
+  </a>
+</div>
+
+- **📡 Morse Code Converter**: Text-to-Morse and Morse-to-text converter tool with audio playback functionality
 
 ---
 
-<div align="center">
-  
-### 🚀 **More Projects Coming Soon!**
-
-I'm currently working on exciting **React projects** and other full-stack applications that will be featured here soon. 
-Stay tuned for updates on my latest web development and data science projects!
-
-<!-- 
-Future React projects will be added here:
-<a href="https://github.com/zzeynepcvk/react-project-name">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=zzeynepcvk&repo=react-project-name&theme=radical" />
-</a>
--->
-
-</div>
+**Technologies Used Across Projects:** Python, React.js, JavaScript, HTML/CSS, Machine Learning, NLP, OpenCV, APIs, Web Scraping, Data Analysis
 
 
 
