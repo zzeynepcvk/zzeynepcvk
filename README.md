@@ -95,15 +95,29 @@ I'm a passionate Full Stack Developer, Python Developer, and Python Tutor who lo
 ## 🎯 Featured Projects
 
 <div align="center">
+  <a href="https://github.com/zzeynepcvk/MuseumArt">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zzeynepcvk&repo=MuseumArt&theme=radical" />
+  </a>
+</div>
+
+### 🎨 **MuseumArt - AI Image Processing Project**
+My flagship project combining **Computer Vision** and **Artificial Intelligence** for museum art analysis. This project showcases advanced image processing techniques and AI algorithms for art recognition and classification.
+
+**Technologies:** Python, OpenCV, TensorFlow/PyTorch, Machine Learning, Image Processing
+
+---
+
+<div align="center">
   
-⭐ **Coming Soon!** ⭐
+### 🚀 **More Projects Coming Soon!**
 
-I'm currently working on some exciting projects that will be featured here soon. 
-Stay tuned for updates on my latest Python, web development, and data science projects!
+I'm currently working on exciting **React projects** and other full-stack applications that will be featured here soon. 
+Stay tuned for updates on my latest web development and data science projects!
 
-<!-- When you have repositories to showcase, replace this section with:
-<a href="https://github.com/zzeynepcvk/your-project-name">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=zzeynepcvk&repo=your-project-name&theme=radical" />
+<!-- 
+Future React projects will be added here:
+<a href="https://github.com/zzeynepcvk/react-project-name">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=zzeynepcvk&repo=react-project-name&theme=radical" />
 </a>
 -->
 
