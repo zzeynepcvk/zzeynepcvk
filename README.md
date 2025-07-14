@@ -72,17 +72,19 @@ I'm a passionate Full Stack Developer, Python Developer, and Python Tutor who lo
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zzeynepcvk&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zzeynepcvk&layout=compact&langs_count=7&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zzeynepcvk&show_icons=true&theme=radical&include_all_commits=true&count_private=true&cache_seconds=1800"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zzeynepcvk&layout=compact&langs_count=7&theme=radical&cache_seconds=1800"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zzeynepcvk&theme=radical" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=zzeynepcvk&theme=radical" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zzeynepcvk&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=zzeynepcvk&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </div>
+
+
 
 ## 🏆 GitHub Trophies
 
@@ -104,7 +106,7 @@ I'm a passionate Full Stack Developer, Python Developer, and Python Tutor who lo
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zzeynepcvk&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Contribution Graph"/>
+  <img src="https://github-contribution-graph.vercel.app/graph?username=zzeynepcvk&theme=react-dark&bg_color=20232a&hide_border=true" width="100%" alt="Contribution Graph"/>
 </div>
 
 ## 🐍 Contribution Snake
