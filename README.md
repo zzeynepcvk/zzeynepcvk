@@ -107,7 +107,7 @@ I'm a passionate Full Stack Developer, Python Developer, and Python Tutor who lo
   <img src="https://github-readme-stats.vercel.app/api?username=zzeynepcvk&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Contribution Graph"/>
 </div>
 
-## � Contribution Snake
+## 🐍 Contribution Snake
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/zzeynepcvk/zzeynepcvk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
