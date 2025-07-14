@@ -105,8 +105,15 @@ I'm a passionate Full Stack Developer, Python Developer, and Python Tutor who lo
   </a>
 </div>
 
+<div align="center">
+  <a href="https://github.com/zzeynepcvk/LanguAir">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zzeynepcvk&repo=LanguAir&theme=radical" />
+  </a>
+</div>
+
 - **🎨 MuseumArt**: AI-powered image processing for museum art analysis using Computer Vision and Machine Learning algorithms
 - **🎤 AI Voice Assistant**: Intelligent voice assistant built with Python, featuring speech recognition, natural language processing, and voice synthesis
+- **🥽 LanguAir**: Advanced Augmented Reality (AR) application featuring real-time 3D object recognition, spatial tracking, and immersive AR experiences
 
 ### 📊 Data Science & Analytics Projects
 
@@ -125,24 +132,20 @@ I'm a passionate Full Stack Developer, Python Developer, and Python Tutor who lo
 ### 🌐 Web Development Projects
 
 <div align="center">
-  <a href="https://github.com/zzeynepcvk/LanguAir">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zzeynepcvk&repo=LanguAir&theme=radical" />
-  </a>
   <a href="https://github.com/zzeynepcvk/GoldTask">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=zzeynepcvk&repo=GoldTask&theme=radical" />
+  </a>
+  <a href="https://github.com/zzeynepcvk/react">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zzeynepcvk&repo=react&theme=radical" />
   </a>
 </div>
 
 <div align="center">
-  <a href="https://github.com/zzeynepcvk/react">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zzeynepcvk&repo=react&theme=radical" />
-  </a>
   <a href="https://github.com/zzeynepcvk/rickandmortyapi-trial">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=zzeynepcvk&repo=rickandmortyapi-trial&theme=radical" />
   </a>
 </div>
 
-- **🌍 LanguAir**: Modern language learning web application with interactive features and user progress tracking
 - **📋 GoldTask**: Task management and productivity application built with modern web technologies
 - **⚛️ React Projects**: Collection of React.js applications showcasing component-based architecture and modern frontend development
 - **🛸 Rick & Morty API**: Interactive web app consuming Rick and Morty API with dynamic content rendering and search functionality
@@ -159,7 +162,7 @@ I'm a passionate Full Stack Developer, Python Developer, and Python Tutor who lo
 
 ---
 
-**Technologies Used Across Projects:** Python, React.js, JavaScript, HTML/CSS, Machine Learning, NLP, OpenCV, APIs, Web Scraping, Data Analysis
+**Technologies Used Across Projects:** Python, React.js, JavaScript, HTML/CSS, Machine Learning, NLP, OpenCV, Augmented Reality (AR), Computer Vision, 3D Graphics, APIs, Web Scraping, Data Analysis
 
 
 
