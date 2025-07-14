@@ -95,25 +95,21 @@ I'm a passionate Full Stack Developer, Python Developer, and Python Tutor who lo
 ## 🎯 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/zzeynepcvk/awesome-project-1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zzeynepcvk&repo=awesome-project-1&theme=radical" />
-  </a>
-  <a href="https://github.com/zzeynepcvk/awesome-project-2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zzeynepcvk&repo=awesome-project-2&theme=radical" />
-  </a>
+  
+⭐ **Coming Soon!** ⭐
+
+I'm currently working on some exciting projects that will be featured here soon. 
+Stay tuned for updates on my latest Python, web development, and data science projects!
+
+<!-- When you have repositories to showcase, replace this section with:
+<a href="https://github.com/zzeynepcvk/your-project-name">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=zzeynepcvk&repo=your-project-name&theme=radical" />
+</a>
+-->
+
 </div>
 
-## 📈 Contribution Graph
 
-<div align="center">
-  <img src="https://github-contribution-graph.vercel.app/graph?username=zzeynepcvk&theme=react-dark&bg_color=20232a&hide_border=true" width="100%" alt="Contribution Graph"/>
-</div>
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/zzeynepcvk/zzeynepcvk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
 
 ## 💭 Random Dev Quote
 
