@@ -87,13 +87,11 @@ I'm a passionate Full Stack Developer, Python Developer, and Python Tutor who lo
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=zzeynepcvk&repo=LanguaZ&theme=radical" />
   </a>
 </div>
+
 <div align="center">
   <a href="https://github.com/zzeynepcvk/tasklyz">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=zzeynepcvk&repo=tasklyz&theme=radical" />
   </a>
-</div>
-
-<div align="center">
   <a href="https://github.com/zzeynepcvk/rickandmortyapi-trial">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=zzeynepcvk&repo=rickandmortyapi-trial&theme=radical" />
   </a>
