@@ -69,31 +69,39 @@ I'm a passionate Full Stack Developer, Python Developer, and Python Tutor who lo
 
 </div>
 
-## 📊 GitHub Statistics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zzeynepcvk&show_icons=true&theme=radical&include_all_commits=true&count_private=true&cache_seconds=1800"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zzeynepcvk&layout=compact&langs_count=7&theme=radical&cache_seconds=1800"/>
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=zzeynepcvk&theme=radical" alt="GitHub Streak"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=zzeynepcvk&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
-</div>
-
-
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=zzeynepcvk&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies"/>
-</div>
 
 ## 🎯 Featured Projects
 
+### 🌐 Web Development Projects
+
+<div align="center">
+  <a href="https://github.com/zzeynepcvk/GoldTask">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zzeynepcvk&repo=GoldTask&theme=radical" />
+  </a>
+  <a href="https://github.com/zzeynepcvk/react">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zzeynepcvk&repo=react&theme=radical" />
+  </a>
+</div>
+<div align="center">
+  <a href="https://github.com/zzeynepcvk/LanguaZ">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zzeynepcvk&repo=LanguaZ&theme=radical" />
+  </a>
+</div>
+<div align="center">
+  <a href="https://github.com/zzeynepcvk/tasklyz">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zzeynepcvk&repo=tasklyz&theme=radical" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/zzeynepcvk/rickandmortyapi-trial">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zzeynepcvk&repo=rickandmortyapi-trial&theme=radical" />
+  </a>
+</div>
+
+- **📋 GoldTask**: Task management and productivity application built with modern web technologies
+- **⚛️ React Projects**: Collection of React.js applications showcasing component-based architecture and modern frontend development
+- **🛸 Rick & Morty API**: Interactive web app consuming Rick and Morty API with dynamic content rendering and search functionality
 ### 🤖 AI & Machine Learning Projects
 
 <div align="center">
@@ -129,26 +137,7 @@ I'm a passionate Full Stack Developer, Python Developer, and Python Tutor who lo
 - **🐦 Tweet Analysis**: Advanced sentiment analysis and data mining project for Twitter/X posts using Python and NLP techniques
 - **🕷️ Web Scraping**: Comprehensive web scraping toolkit for data collection and automated information extraction
 
-### 🌐 Web Development Projects
 
-<div align="center">
-  <a href="https://github.com/zzeynepcvk/GoldTask">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zzeynepcvk&repo=GoldTask&theme=radical" />
-  </a>
-  <a href="https://github.com/zzeynepcvk/react">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zzeynepcvk&repo=react&theme=radical" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/zzeynepcvk/rickandmortyapi-trial">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zzeynepcvk&repo=rickandmortyapi-trial&theme=radical" />
-  </a>
-</div>
-
-- **📋 GoldTask**: Task management and productivity application built with modern web technologies
-- **⚛️ React Projects**: Collection of React.js applications showcasing component-based architecture and modern frontend development
-- **🛸 Rick & Morty API**: Interactive web app consuming Rick and Morty API with dynamic content rendering and search functionality
 
 ### 🛠️ Utility & Tools Projects
 
