@@ -76,7 +76,7 @@ I'm a passionate Full Stack Developer, Python Developer, and Python Tutor who lo
 
 <div align="center">
   <a href="https://github.com/zzeynepcvk/GoldTask">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zzeynepcvk&repo=GoldTask&" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zzeynepcvk&repo=GoldTask" />
   </a>
   <a href="https://github.com/zzeynepcvk/react">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=zzeynepcvk&repo=react&theme=radical" />
